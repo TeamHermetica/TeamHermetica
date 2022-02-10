@@ -2,11 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=0000FF&size=30&lines=Team+Hermetica;)](https://git.io/typing-svg)
 
 ### About Me 🚀
-- Sophomore at NIT-Hamirpur.
-- Pursuing B.Tech. in Chemical Engineering (2020-Present).⚗️
-- I’m currently learning Data Structures and Algorithms in Java.👨🏻‍💻
-- I am also passionate about Web Development.
-- Executive Member at Team Hermetica, NIMBUS (NIT-H Tech Fest).
+- Technical Team at NIT-Hamirpur.
+- Chemical Engineering Department.⚗️
+- Team at NIMBUS (NIT-H Tech Fest).
 
 <h2> Connect with us on :left_speech_bubble: </h2>
 <br>	
