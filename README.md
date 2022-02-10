@@ -2,9 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=0000FF&size=30&lines=Team+Hermetica;)](https://git.io/typing-svg)
 
 <h2> About Us </h2>
-- Team of Chemical Engineering department
-- From National Institute of Technology, Hamirpur
-- NIMBUS - NIT'H Tech Fest
+- Team of Chemical Engineering department <br>
+- From National Institute of Technology, Hamirpur <br>
+- NIMBUS - NIT'H Tech Fest <br>
 <h2> Connect with us on :left_speech_bubble: </h2>
 <br>	
 <p align="left">
