@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=0000FF&size=30&lines=Team+Hermetica;)](https://git.io/typing-svg)
 
-### About Me 🚀
+### About Us
 - Technical Team at NIT-Hamirpur.
 - Chemical Engineering Department.⚗️
 - Team at NIMBUS (NIT-H Tech Fest).
